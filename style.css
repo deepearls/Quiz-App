@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.options{
+    background-color:rgb(178, 201, 201) !important;
+    border-color: grey;
+    width: 250px !important; 
+    height: 50px;
+    align-items: center;
+    border-width: 5px;
+    /* margin: 10px 0px 10px 0px;    */
+    margin-bottom: 15px;
+    padding: 5px;
+
+}
